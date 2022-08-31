@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.2](https://github.com/nbs-js/html2canvas/compare/v1.4.1...v1.4.2) (2022-08-31)
+
+
+### examples
+
+* fix duplication (#2813) ([6020386](https://github.com/nbs-js/html2canvas/commit/6020386bbeed60ad68e675fdcaa6220e292fd35a)), closes [#2813](https://github.com/nbs-js/html2canvas/issues/2813)
+
+### fix
+
+* strike-through line positions correctly ([d73dfd6](https://github.com/nbs-js/html2canvas/commit/d73dfd64d82f8d5878fe1bb5376a6b918b5bdaae))
+
+
+
 ## [1.4.1](https://github.com/niklasvh/html2canvas/compare/v1.4.0...v1.4.1) (2022-01-22)
 
 
